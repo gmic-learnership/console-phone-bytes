@@ -11,7 +11,7 @@ namespace ConsolePhone_Bytes
     {
         public string telephone;
         public string msg;
-       
+        public string tel;
         
      
         // This method will check if the telephone includes ()- and then remove then
