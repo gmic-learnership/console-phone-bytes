@@ -1,0 +1,15 @@
+c:\users\cuewill\documents\visual studio 2015\Projects\ConsolePhone_Bytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.exe.config
+c:\users\cuewill\documents\visual studio 2015\Projects\ConsolePhone_Bytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.exe
+c:\users\cuewill\documents\visual studio 2015\Projects\ConsolePhone_Bytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.pdb
+c:\users\cuewill\documents\visual studio 2015\Projects\ConsolePhone_Bytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.csprojResolveAssemblyReference.cache
+c:\users\cuewill\documents\visual studio 2015\Projects\ConsolePhone_Bytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.exe
+c:\users\cuewill\documents\visual studio 2015\Projects\ConsolePhone_Bytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.pdb
+D:\ConsolePhone_Bytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.exe.config
+D:\ConsolePhone_Bytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.exe
+D:\ConsolePhone_Bytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.pdb
+D:\ConsolePhone_Bytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.exe
+D:\ConsolePhone_Bytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.pdb
+D:\ConsolePhone_Bytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.csprojResolveAssemblyReference.cache
+C:\Users\Wmaluleke\Documents\Visual Studio 2015\Projects\ConsolePhone_Bytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.exe.config
+C:\Users\Wmaluleke\Documents\Visual Studio 2015\Projects\ConsolePhone_Bytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.exe
+C:\Users\Wmaluleke\Documents\Visual Studio 2015\Projects\ConsolePhone_Bytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.pdb
