@@ -13,7 +13,8 @@ namespace ConsolePhone_Bytes
         public string msg;
         public double num;
         public string num1;
-
+        public string telll;
+        public int num2;
      
         // This method will check if the telephone includes ()- and then remove then
         public string RemoveBrackets()
