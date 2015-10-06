@@ -12,6 +12,7 @@ namespace ConsolePhone_Bytes
         public string telephone;
         public string msg;
         public double num;
+       
 
 
      

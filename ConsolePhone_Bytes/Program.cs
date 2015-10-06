@@ -17,6 +17,7 @@ namespace ConsolePhone_Bytes
             Console.WriteLine("");
 
             call.telephone = "";
+         
           
           
             //Iterate until you enter XX to exit
