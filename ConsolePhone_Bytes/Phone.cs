@@ -66,7 +66,7 @@ namespace ConsolePhone_Bytes
 
         // this method will check the leght of the contact if its 10 digits long.
         // Also check if the Telephone starts with [012,011,069,072,073,083]
-        // XX WILL CLOSE THE APPLICATION
+        // XX or xx WILL CLOSE THE APPLICATION
 
         public string checkRange(string tel)
         {
@@ -82,12 +82,7 @@ namespace ConsolePhone_Bytes
 
             }
 
-            //  Regex regex = new Regex(@"^[-+]?[0-9]*\.?[0-9]+$");
-            //  if (regex.IsMatch(tel))
-
-
-            //  {
-           
+            
 
 
 
@@ -147,17 +142,6 @@ namespace ConsolePhone_Bytes
 
             return msg;
         }
-        /* else
-         {
-
-             Console.WriteLine("**************************");
-             Console.WriteLine("**************************");
-             Console.WriteLine("The Telephone Must be Numeric, Please try Again");
-             Console.WriteLine("**************************");
-             Console.WriteLine("**************************");
-         }*/
-    
-           
         
     }
 }
