@@ -36,9 +36,6 @@ namespace ConsolePhone_Bytes
 
                 //call the methods
 
-
-
-
                 string msg = call.RemoveBrackets();
                 Console.WriteLine(msg);
 

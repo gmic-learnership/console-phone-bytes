@@ -16,3 +16,6 @@ C:\Users\Wmaluleke\Documents\Visual Studio 2015\Projects\ConsolePhone_Bytes\Cons
 C:\Users\Wmaluleke\Desktop\ConsolePhoneBytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.exe.config
 C:\Users\Wmaluleke\Desktop\ConsolePhoneBytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.exe
 C:\Users\Wmaluleke\Desktop\ConsolePhoneBytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.pdb
+C:\Users\Wmaluleke\Desktop\ConsolePhoneBytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.exe
+C:\Users\Wmaluleke\Desktop\ConsolePhoneBytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.pdb
+C:\Users\Wmaluleke\Desktop\ConsolePhoneBytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.csprojResolveAssemblyReference.cache
