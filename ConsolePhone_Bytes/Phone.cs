@@ -93,7 +93,7 @@ namespace ConsolePhone_Bytes
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.ForegroundColor = ConsoleColor.Black;
                 msg = "The Telephone number must be 10 digits long" + "   " + "Please try Again";
-                Console.Beep(1500, 1500);
+                Console.Beep(1125, 1125);
                 Console.WriteLine("");
                 Console.WriteLine("");
             }
@@ -107,7 +107,7 @@ namespace ConsolePhone_Bytes
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.ForegroundColor = ConsoleColor.Black;
                 msg = "Telephone number cannot start with" + " " + telephone.Substring(0, 3) + "   " + "Please try Again";
-                Console.Beep(1500, 1500);
+                Console.Beep(1125, 1125);
                 Console.WriteLine("");
                 Console.WriteLine("");
             }
