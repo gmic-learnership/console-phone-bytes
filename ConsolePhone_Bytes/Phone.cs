@@ -21,10 +21,8 @@ namespace ConsolePhone_Bytes
             }
             else if (telephone.Contains("(") || telephone.Contains(")") || telephone.Contains("-"))
             {
-                telephone = telephone.Replace("(", "");
-              
+                telephone = telephone.Replace("(", "");          
                 telephone = telephone.Replace(")", "");
-
                 telephone = telephone.Replace("-", "");               
             }
             return telephone;
@@ -63,8 +61,7 @@ namespace ConsolePhone_Bytes
                 Console.ForegroundColor = ConsoleColor.Black;
                 msg = "The Telephone number must be 10 digits long" + "   " + "Please try Again";
                 Console.Beep(1125, 1125);
-                Console.WriteLine("");
-                Console.WriteLine("");
+                
             }
             else if (!telephone.StartsWith("072") && !telephone.StartsWith("073") && !telephone.StartsWith("011") &&
                 !telephone.StartsWith("083") && !telephone.StartsWith("012") && !telephone.StartsWith("069"))
