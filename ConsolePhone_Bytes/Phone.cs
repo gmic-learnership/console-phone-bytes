@@ -53,8 +53,7 @@ namespace ConsolePhone_Bytes
             }
         }
         public string CheckRange(string tel)
-        {
-            Console.Clear();
+        {          
             bool isNum = double.TryParse(tel, out num);
             tel.Trim();
           
@@ -80,8 +79,7 @@ namespace ConsolePhone_Bytes
                
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.ForegroundColor = ConsoleColor.Black;
-                Console.WriteLine("The Telephone Must be Numeric, Please try Again");
-               
+                Console.WriteLine("The Telephone Must be Numeric, Please try Again");              
             }
             else
             { 
