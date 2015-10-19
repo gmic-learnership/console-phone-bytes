@@ -19,3 +19,4 @@ C:\Users\ETshivhase\Desktop\consolePhoneBytes\ConsolePhone_Bytes\obj\Debug\Conso
 C:\Users\TMabitsela\Desktop\consolePhoneBytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.exe.config
 C:\Users\TMabitsela\Desktop\consolePhoneBytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.exe
 C:\Users\TMabitsela\Desktop\consolePhoneBytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.pdb
+C:\Users\ETshivhase\Desktop\consolePhoneBytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.csprojResolveAssemblyReference.cache

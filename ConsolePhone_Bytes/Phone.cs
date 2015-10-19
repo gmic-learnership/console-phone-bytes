@@ -80,14 +80,6 @@ namespace ConsolePhone_Bytes
 
             }
 
-            //  Regex regex = new Regex(@"^[-+]?[0-9]*\.?[0-9]+$");
-            //  if (regex.IsMatch(tel))
-
-
-            //  {
-           
-
-
 
             if (telephone.Length != 10)
             {
