@@ -13,9 +13,18 @@ D:\ConsolePhone_Bytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.csprojReso
 C:\Users\Wmaluleke\Documents\Visual Studio 2015\Projects\ConsolePhone_Bytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.exe.config
 C:\Users\Wmaluleke\Documents\Visual Studio 2015\Projects\ConsolePhone_Bytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.exe
 C:\Users\Wmaluleke\Documents\Visual Studio 2015\Projects\ConsolePhone_Bytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.pdb
+<<<<<<< HEAD
 C:\Users\Wmaluleke\Desktop\ConsolePhoneBytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.exe.config
 C:\Users\Wmaluleke\Desktop\ConsolePhoneBytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.exe
 C:\Users\Wmaluleke\Desktop\ConsolePhoneBytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.pdb
 C:\Users\Wmaluleke\Desktop\ConsolePhoneBytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.exe
 C:\Users\Wmaluleke\Desktop\ConsolePhoneBytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.pdb
 C:\Users\Wmaluleke\Desktop\ConsolePhoneBytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.csprojResolveAssemblyReference.cache
+=======
+C:\Users\ETshivhase\Desktop\consolePhoneBytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.exe.config
+C:\Users\ETshivhase\Desktop\consolePhoneBytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.exe
+C:\Users\ETshivhase\Desktop\consolePhoneBytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.pdb
+C:\Users\TMabitsela\Desktop\consolePhoneBytes\ConsolePhone_Bytes\bin\Debug\ConsolePhone_Bytes.exe.config
+C:\Users\TMabitsela\Desktop\consolePhoneBytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.exe
+C:\Users\TMabitsela\Desktop\consolePhoneBytes\ConsolePhone_Bytes\obj\Debug\ConsolePhone_Bytes.pdb
+>>>>>>> c20ec31a425ece2884ce5b8300dad0cfcd93d068
