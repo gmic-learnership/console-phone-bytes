@@ -72,16 +72,14 @@ namespace ConsolePhone_Bytes
                 Console.Beep(1125, 1125);            
             }         
           else if (!isNum)
-            {
-               
+            {               
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.ForegroundColor = ConsoleColor.Black;
                 Console.WriteLine("The Telephone Must be Numeric, Please try Again");              
             }
             else
-            { 
-                
-                Console.BackgroundColor = ConsoleColor.Blue;
+            {                
+               Console.BackgroundColor = ConsoleColor.Blue;
                 msg = "You are Now Dialling......." + telephone + "\n";
                 Console.WriteLine("");
                 Console.WriteLine("");

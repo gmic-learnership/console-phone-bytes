@@ -16,7 +16,7 @@ namespace ConsolePhone_Bytes
             Console.Clear();                        
             while (call.telephone != "XX" || call.telephone != "xx" || call.telephone != "Xx" || call.telephone != "xX")
             {              
-                Console.Clear();
+                
                 Console.WriteLine("................Vodacom Dialling App............");
                 Console.WriteLine("");
                 Console.WriteLine("");
