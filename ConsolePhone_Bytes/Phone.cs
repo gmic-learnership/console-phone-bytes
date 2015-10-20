@@ -54,9 +54,26 @@ namespace ConsolePhone_Bytes
         {          
             bool isNum = double.TryParse(tel, out num);
             tel.Trim();
+<<<<<<< HEAD
+
+
+            if (telephone == "XX" || telephone == "xx")
+            {
+
+                Console.SetWindowSize(1, 1);
+
+            }
+
+
+            if (telephone.Length != 10)
+            {
+                Console.WriteLine("**************************");
+                Console.WriteLine("**************************");
+=======
           
              if (telephone.Length != 10)
             {               
+>>>>>>> 2d627f7678bc6ec2994e7d8edff6f7fcba89f9cb
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.ForegroundColor = ConsoleColor.Black;
                 msg = "The Telephone number must be 10 digits long" + "   " + "Please try Again";
