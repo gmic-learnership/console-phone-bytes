@@ -12,7 +12,6 @@ namespace ConsolePhone_Bytes
         public string telephone;
         public double num;
         public string msg;
-
         public string RemoveBrackets()
         {
             if (telephone == "")
@@ -53,48 +52,30 @@ namespace ConsolePhone_Bytes
         public string CheckRange(string tel)
         {
             bool isNum = double.TryParse(tel, out num);
-            tel.Trim();
-            if (telephone == "XX" || telephone == "xx")
-            {
-
-                Console.SetWindowSize(1, 1);
-
-            }
+            tel.Trim();           
             if (telephone.Length != 10)
             {
                 Console.WriteLine("**************************");
                 Console.WriteLine("**************************");
-
-
                 if (telephone.Length != 10)
-                {
-
-                    Console.BackgroundColor = ConsoleColor.Red;
-                    Console.ForegroundColor = ConsoleColor.Black;
+                {                 
                     msg = "The Telephone number must be 10 digits long" + "   " + "Please try Again";
                     Console.Beep(1125, 1125);
-
                 }
                 else if (!telephone.StartsWith("072") && !telephone.StartsWith("073") && !telephone.StartsWith("011") &&
                     !telephone.StartsWith("083") && !telephone.StartsWith("012") && !telephone.StartsWith("069"))
-                {
-                    Console.BackgroundColor = ConsoleColor.Red;
-                    Console.ForegroundColor = ConsoleColor.Black;
-                    msg = "Telephone number cannot start with" + " " + telephone.Substring(0, 3) + "   " + "Please try Again";
+                {                  
+                  msg = "Telephone number cannot start with" + " " + telephone.Substring(0, 3) + "   " + "Please try Again";
                     Console.Beep(1125, 1125);
                 }
                 else if (!isNum)
                 {
-                    Console.BackgroundColor = ConsoleColor.Red;
-                    Console.ForegroundColor = ConsoleColor.Black;
+                    
                     Console.WriteLine("The Telephone Must be Numeric, Please try Again");
                 }
                 else
-                {
-                    Console.BackgroundColor = ConsoleColor.Blue;
-                    msg = "You are Now Dialling......." + telephone + "\n";
-                    Console.WriteLine("");
-                    Console.WriteLine("");
+                {           
+                  msg = "You are Now Dialling......." + telephone + "\n";                  
                 }
                 return msg;
             }
